@@ -1057,9 +1057,6 @@ with gr.Blocks(
 
 print("FinTrack Pro is ready!")
 
-
-print("FinTrack Pro is ready!")
-
 if __name__ == "__main__":
     port = int(os.environ.get("PORT", "8000"))
 
